@@ -1,5 +1,7 @@
 # nonce-studio
 
-Space to create
+Space to create.
 
-A place to breathe
+A place to breathe.
+
+Inhale.
